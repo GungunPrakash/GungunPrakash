@@ -25,4 +25,4 @@ I'm a Frontend Developer passionate about building responsive and user-friendly 
 ### 📫 Connect With Me
 
 - GitHub: [@GungunPrakash](https://github.com/GungunPrakash)
-- Location: Bareilly, India
+- Location: Noida, India
