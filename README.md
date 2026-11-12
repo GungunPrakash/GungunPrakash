@@ -10,9 +10,12 @@ I'm a Frontend Developer passionate about building responsive and user-friendly 
 - 🌱 Currently learning Node.js, Express.js and PostgreSQL
 - 🚀 Building projects to improve my development skills
 
-### 🛠️ Skills
 
-HTML | CSS | JavaScript | React.js | Tailwind CSS | Bootstrap
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,express,postgres" />
+</p>
 
 ### 📂 Projects
 
